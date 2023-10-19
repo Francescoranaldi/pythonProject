@@ -19,6 +19,3 @@ bfs ='8465837465934869867'
 cfs = afs + bfs
 print(type(cfs))
 print(f'cfs=')
-
-git config --global user.email "fr128542@student.sgh.waw.pl"
-git config --global user.name "Francesco"
