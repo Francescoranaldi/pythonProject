@@ -1,0 +1,24 @@
+# This is a sample Python script.
+
+# Press Maiusc+F10 to execute it or replace it with your code.
+# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+
+
+def print_hi(name):
+    # Use a breakpoint in the code line below to debug your script.
+    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+
+
+# Press the green button in the gutter to run the script.
+if __name__ == '__main__':
+    print_hi('PyCharm')
+
+# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+afs ='1288866868867546364'
+bfs ='8465837465934869867'
+cfs = afs + bfs
+print(type(cfs))
+print(f'cfs=')
+
+git config --global user.email "fr128542@student.sgh.waw.pl"
+git config --global user.name "Francesco"
