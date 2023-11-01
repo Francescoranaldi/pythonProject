@@ -41,3 +41,44 @@ j=int(6853.3214)
 print(j)
 k=round(54333.7890)
 print(k)
+
+ab = 0b1001
+print(ab)
+
+ax = 0xa
+print(ax)
+ax1= 0x10
+print(ax1)
+ax2= 0x1f
+print(ax2)
+
+s = 'abcdefgh'
+print(s)
+print(ord('a'))
+print(ord('A'))
+print('avsavsab\nafaggw\\ra\\negwg2wghq')
+s1 = print('avsavsab\tafaggw\ta\\tegwg2wghq')
+print(s1)
+print(s1[2])
+print(s1[2:])
+print(s1[:5])
+print(s1[-5:])
+print('--------------',end='')
+print('aagae')
+s2 = 'avsavsab\tagfaggw\ta\ttnegwg2wghq'
+s2a = s2.split('\t')
+print(s2a)
+print(s2a[1])
+
+p = True
+q = False
+
+if p and q:
+    print('p and q True')
+else:
+    print('p and q False')
+
+    if p or q:
+        print('p or q True')
+    else:
+        print('p or q False')
